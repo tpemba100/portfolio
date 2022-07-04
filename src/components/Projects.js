@@ -46,12 +46,7 @@ const Projects = () => {
       img: IMG6,
       link: 'https://lukinoo.github.io/math-resource/',
     },
-    {
-      id: 7,
-      title: 'Math Resource',
-      img: IMG6,
-      link: 'https://lukinoo.github.io/math-resource/',
-    },
+    
   ];
   
 
