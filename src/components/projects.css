@@ -39,17 +39,6 @@
 }
 
 
-.oi {
-    display: flex;
-    position: absolute;
-    font-size: 40px;
-    top: 0;
-    margin-top: 60px;
-    margin-left: 80px;
-    background-color: brown;
-    z-index: 99999;
-}
-
 
 .portfolio-info {
     display: block;

@@ -62,7 +62,6 @@ const Projects = () => {
           <article className="portfolio__item" key={pro.id}>
             <div className="portfolio__item-image">
               <img src={pro.img} alt={pro.title} />
-              <span className='oi'> {pro.title}</span>
             </div>
             <div className='portfolio-info'>
               <h3>{pro.title}</h3>
