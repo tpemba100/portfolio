@@ -10,8 +10,6 @@ const about = {
   role: "Front End Engineer",
   description:
     "As an aspiring developer, I am passionate about creating user-centered applications that are designed to deliver a seamless and intuitive experience for the end-users.",
-  resume:
-    "https://drive.google.com/file/d/1DbXoaukPL9QzcqR1Fk5PXbNkBdhC6pse/view?usp=sharing",
   social: {
     linkedin: "https://linkedin.com/in/tpemba",
     github: "https://github.com/tpemba100",

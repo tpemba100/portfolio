@@ -4,6 +4,9 @@
   color: var(--clr-fg);
   background-color: var(--clr-bg);
 }
+.hide {
+  display: none !important;
+}
 
 .light {
   --clr-bg: #fcfcfc;
