@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useContext } from "react";
 import { ThemeContext } from "./contexts/theme";
 import Header from "./components/Header/Header";
@@ -30,3 +31,6 @@ const App = () => {
 };
 
 export default App;
+=======
+
+>>>>>>> 8a05c41614cf4723ea7db9b930cbf6c404b208c8
