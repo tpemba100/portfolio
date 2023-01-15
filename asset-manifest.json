@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9496b6da.css",
-    "main.js": "/portfolio/static/js/main.8f690d14.js",
+    "main.css": "/portfolio/static/css/main.7eadb932.css",
+    "main.js": "/portfolio/static/js/main.5bfa74eb.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Tsering_Pemba_Resume.pdf": "/portfolio/static/media/Tsering_Pemba_Resume.661cea5a3a4b94558fa2.pdf",
     "index.html": "/portfolio/index.html",
-    "main.9496b6da.css.map": "/portfolio/static/css/main.9496b6da.css.map",
-    "main.8f690d14.js.map": "/portfolio/static/js/main.8f690d14.js.map",
+    "main.7eadb932.css.map": "/portfolio/static/css/main.7eadb932.css.map",
+    "main.5bfa74eb.js.map": "/portfolio/static/js/main.5bfa74eb.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9496b6da.css",
-    "static/js/main.8f690d14.js"
+    "static/css/main.7eadb932.css",
+    "static/js/main.5bfa74eb.js"
   ]
 }
